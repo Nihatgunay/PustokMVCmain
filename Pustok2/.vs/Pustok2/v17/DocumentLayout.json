@@ -1,0 +1,1143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\pustok2.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\pustok2.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\implementations\\slideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\implementations\\slideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\pustok2.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\pustok2.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\interfaces\\islideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\interfaces\\islideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\slide\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\slide\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\slide\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\slide\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\models\\bookimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\models\\bookimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\repositories\\bookimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\repositories\\bookimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\book\\createbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\book\\createbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\book\\updatebookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\book\\updatebookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\exceptions\\genreexceptions\\genreexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\exceptions\\genreexceptions\\genreexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\exceptions\\authorexceptions\\authornameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\exceptions\\authorexceptions\\authornameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\exceptions\\commonexceptions\\idisnotvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\exceptions\\commonexceptions\\idisnotvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\exceptions\\commonexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\exceptions\\commonexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\author\\createauthorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\author\\createauthorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\author\\updateauthorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\author\\updateauthorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\repositories\\ibookimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\repositories\\ibookimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\repositories\\sliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\repositories\\sliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\genre\\creategenrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\genre\\creategenrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.data\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594FAB49-FA5B-4844-BC8B-F6AEA52F1102}|src\\Pustok2.Data\\Pustok2.Data.csproj|solutionrelative:src\\pustok2.data\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\repositories\\isliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\repositories\\isliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\pustok2.business\\viewmodels\\genre\\updategenrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2D0F3F-9EC6-4F3A-9978-E39D1BD77FBF}|Pustok2.Business\\Pustok2.Business.csproj|solutionrelative:pustok2.business\\viewmodels\\genre\\updategenrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\genre\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\genre\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21AD3C4-D058-44FE-8347-BCACE0DC2743}|src\\Pustok2.Core\\Pustok2.Core.csproj|solutionrelative:src\\pustok2.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|c:\\users\\lenovo\\desktop\\pustokmvc\\pustok2\\src\\pustok2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4A0E99F-B88E-424A-947D-97E41322AB89}|src\\Pustok2.MVC\\Pustok2.MVC.csproj|solutionrelative:src\\pustok2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:03:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T23:01:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlideService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\SlideService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Implementations\\SlideService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\SlideService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Implementations\\SlideService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:14:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SlideController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:15:02.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T19:33:25.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:32:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pustok2.Business",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Pustok2.Business.csproj",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Pustok2.Business.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Pustok2.Business.csproj",
+              "RelativeToolTip": "Pustok2.Business\\Pustok2.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T22:50:38.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISlideService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\ISlideService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Interfaces\\ISlideService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\ISlideService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Interfaces\\ISlideService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:06:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pustok2.MVC",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Pustok2.MVC.csproj",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Pustok2.MVC.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Pustok2.MVC.csproj",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Pustok2.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T15:20:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Slide\\UpdateSlideVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Slide\\UpdateSlideVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Slide\\UpdateSlideVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Slide\\UpdateSlideVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:08:59.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Implementations\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\AuthorService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Implementations\\AuthorService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:29:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Slide\\CreateSlideVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Slide\\CreateSlideVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Slide\\CreateSlideVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Slide\\CreateSlideVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:08:47.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:47:29.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:21:47.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Slide.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Models\\Slide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:02:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:43:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T18:52:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T18:51:31.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:40:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:00:27.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookImage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\BookImage.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Models\\BookImage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\BookImage.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Models\\BookImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:33:30.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ServiceRegistration.cs",
+              "RelativeToolTip": "Pustok2.Business\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:41:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:32:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\BookImageRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Repositories\\BookImageRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\BookImageRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Repositories\\BookImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:28:04.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Pustok2.Business\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:07:26.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:49:32.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Genre.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:36:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Book.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:22:21.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\Author.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:21:28.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateBookVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Book\\CreateBookVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Book\\CreateBookVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Book\\CreateBookVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Book\\CreateBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:50:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Implementations\\BookService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:47:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\GenreService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Implementations\\GenreService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Implementations\\GenreService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Implementations\\GenreService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:28:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateBookVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Book\\UpdateBookVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Book\\UpdateBookVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Book\\UpdateBookVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Book\\UpdateBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:51:03.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T15:16:36.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Interfaces\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Interfaces\\IGenreService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:28:15.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "RelativeToolTip": "Pustok2.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:29:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenreExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\GenreExceptions\\GenreExistsException.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Exceptions\\GenreExceptions\\GenreExistsException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\GenreExceptions\\GenreExistsException.cs",
+              "RelativeToolTip": "Pustok2.Business\\Exceptions\\GenreExceptions\\GenreExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:33:47.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthorNameException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\AuthorExceptions\\AuthorNameException.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Exceptions\\AuthorExceptions\\AuthorNameException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\AuthorExceptions\\AuthorNameException.cs",
+              "RelativeToolTip": "Pustok2.Business\\Exceptions\\AuthorExceptions\\AuthorNameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:07:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:36:43.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:37:23.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IdIsNotValidException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\CommonExceptions\\IdIsNotValidException.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Exceptions\\CommonExceptions\\IdIsNotValidException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\CommonExceptions\\IdIsNotValidException.cs",
+              "RelativeToolTip": "Pustok2.Business\\Exceptions\\CommonExceptions\\IdIsNotValidException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:17:00.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Pustok2.Business\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:11:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateAuthorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Author\\UpdateAuthorVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Author\\UpdateAuthorVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Author\\UpdateAuthorVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Author\\UpdateAuthorVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:30:42.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateAuthorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Author\\CreateAuthorVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Author\\CreateAuthorVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Author\\CreateAuthorVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Author\\CreateAuthorVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:30:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IBookImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IBookImageRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Repositories\\IBookImageRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IBookImageRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Repositories\\IBookImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:27:39.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:26:46.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Repositories\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Repositories\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:26:15.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:17:05.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:13:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:36:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:34:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SlideRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\SlideRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Repositories\\SlideRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\SlideRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Repositories\\SlideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:04:21.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Program.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:56:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADEBAAAAAAAAAAAewEABAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T21:01:04.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateGenreVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Genre\\CreateGenreVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Genre\\CreateGenreVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Genre\\CreateGenreVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Genre\\CreateGenreVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:01:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "Pustok2.Business\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:06:56.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ISlideRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\ISlideRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Repositories\\ISlideRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\ISlideRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Repositories\\ISlideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:03:27.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Data\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Data\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Data\\Repositories\\GenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:53:56.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateGenreVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Genre\\UpdateGenreVM.cs",
+              "RelativeDocumentMoniker": "Pustok2.Business\\ViewModels\\Genre\\UpdateGenreVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\Pustok2.Business\\ViewModels\\Genre\\UpdateGenreVM.cs",
+              "RelativeToolTip": "Pustok2.Business\\ViewModels\\Genre\\UpdateGenreVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:01:22.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Repositories\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Repositories\\IGenreRepository.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Repositories\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:36:57.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:44:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:22:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACABAAAAAAAAAAAewMkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:54:32.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:59:23.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Pustok2.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:49:59.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Pustok2.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Pustok2.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:36:06.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Pustok2.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PustokMVC\\Pustok2\\src\\Pustok2.MVC\\appsettings.json",
+              "RelativeToolTip": "src\\Pustok2.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T19:28:21.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

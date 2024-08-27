@@ -1,0 +1,25 @@
+﻿@model CreateSlideVM
+
+<div class="container-fluid">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-4">
+                <label for="exampleInputName1">Photo</label>
+                <input asp-for="Photo" class="form-control" placeholder="Photo" accept="image/*">
+                <span class="text-danger" asp-validation-for="Photo"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">Title</label>
+                <input asp-for="Title" class="form-control">
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">SubTitle</label>
+                <input asp-for="Subtitle" class="form-control">
+                <span asp-validation-for="Subtitle" class="text-danger"></span>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+        <button asp-action="" class="btn btn-warning">Cancel</button>
+    </form>
+</div>

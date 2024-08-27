@@ -1,0 +1,91 @@
+﻿@model CreateBookVM
+@{
+    List<Author> authors = ViewBag.Authors;
+    List<Genre> genres = ViewBag.Genres;
+}
+
+<div class="container-fluid">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-4">
+                <label class="form-label">Title</label>
+                <input asp-for="Title" class="form-control" placeholder="Enter Name">
+                <span asp-validation-for="Title"  class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">Code</label>
+                <input asp-for="Code" class="form-control" placeholder="Enter Code">
+                <span asp-validation-for="Code" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">Description</label>
+                <input asp-for="Description" class="form-control" placeholder="Enter Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-3 col-md-4">
+                <label class="form-label">CostPrice</label>
+                <input asp-for="CostPrice" class="form-control" placeholder="Enter CostPrice">
+                <span asp-validation-for="CostPrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">SalePrice</label>
+                <input asp-for="SalePrice" class="form-control" placeholder="Enter SalePrice">
+                <span asp-validation-for="SalePrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">SalePercent</label>
+                <input asp-for="SalePercent" class="form-control" placeholder="Enter SalePercent">
+                <span asp-validation-for="SalePercent" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-4 col-md-3">
+                <label class="form-label">StockCount</label>
+                <input asp-for="StockCount" class="form-control" placeholder="Enter StockCount">
+                <span asp-validation-for="StockCount" class="text-danger"></span>
+            </div>
+            <div class="mb-4 col-md-3">
+                <label class="form-label">Author</label>
+                <select class="form-control" asp-for="AuthorId" asp-items="@(new SelectList(authors, "Id", "FullName"))">
+                    <option selected disabled>choose author</option>
+                </select>
+                <span asp-validation-for="AuthorId" class="text-danger"></span>
+            </div>
+            <div class="mb-4 col-md-3">
+                <label class="form-label">Genre</label>
+                <select class="form-control" asp-for="GenreId" asp-items="@(new SelectList(genres, "Id", "Name"))">
+                    <option selected disabled>choose genre</option>
+                </select>
+                <span asp-validation-for="GenreId" class="text-danger"></span>
+            </div>
+            <div>
+                <label class="form-label">IsAvailable</label>
+                <input asp-for="IsAvailable" class="form-control">
+                <span asp-validation-for="IsAvailable" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-3 col-md-4">
+                <label class="form-label">PosterImage</label>
+                <input asp-for="PosterImage" class="form-control" placeholder="PosterImage">
+                <span asp-validation-for="PosterImage" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">HoverImage</label>
+                <input asp-for="HoverImage" class="form-control" placeholder="HoverImage">
+                <span asp-validation-for="HoverImage" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label">Images</label>
+                <input asp-for="Images" class="form-control" placeholder="Images">
+                <span asp-validation-for="Images" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <button type="submit" class="btn btn-primary">Create</button>
+        <button asp-action="" class="btn btn-warning">Cancel</button>
+    </form>
+</div>
