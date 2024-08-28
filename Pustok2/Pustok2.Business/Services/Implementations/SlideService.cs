@@ -60,7 +60,7 @@ namespace Pustok2.Business.Services.Implementations
 				throw new IdIsNotValidException("Id not valid");
 			}
 
-			var entity = await _repository.GetByIdAsync(id.Value);
+			var entity = await _repository.GetByIdAsync(id);
 			if (entity == null)
 			{
 				throw new EntityNotFoundException("Slide not found.");
